@@ -1,5 +1,5 @@
 #list are a container to store a set of of value
-
+# lsit are mutable
 fruit=["apple","Mango","Bannana","Grpaes"]
 
 print("Original List:",fruit)

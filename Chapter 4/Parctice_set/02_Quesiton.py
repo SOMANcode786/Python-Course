@@ -9,7 +9,7 @@ d=input("Enter the  Fruit-- :")
 
 e=input("Enter the  Fruit-- :")
 
-f=input("Enter the  Fruit-- :")
+f=input(" Enter the  Fruit-- :")
 
 g=input("Enter the  Fruit-- :")
 
